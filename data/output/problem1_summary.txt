@@ -1,0 +1,3 @@
+Total log lines processed: 33236604
+Total lines with log levels: 27410336
+Unique log levels found: 3

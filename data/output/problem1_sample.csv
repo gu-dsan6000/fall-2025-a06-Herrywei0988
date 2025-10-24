@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/09 13:50:18 INFO storage.BlockManager: Removing RDD 18099,INFO
+17/06/09 22:04:18 INFO executor.Executor: Finished task 4.0 in stage 6904.0 (TID 277448). 2087 bytes result sent to driver,INFO
+17/06/09 12:18:49 INFO executor.Executor: Running task 21.0 in stage 7543.0 (TID 302172),INFO
+17/06/08 13:44:42 INFO executor.Executor: Finished task 26.0 in stage 678.0 (TID 27146). 2197 bytes result sent to driver,INFO
+17/06/09 18:01:09 INFO executor.Executor: Finished task 3.0 in stage 3428.0 (TID 137168). 2076 bytes result sent to driver,INFO
+17/06/07 16:59:22 INFO executor.Executor: Finished task 34.0 in stage 40.0 (TID 1634). 2156 bytes result sent to driver,INFO
+"17/06/09 21:28:57 INFO python.PythonRunner: Times: total = 40, boot = -11, init = 51, finish = 0",INFO
+"17/06/09 12:19:41 INFO storage.MemoryStore: Block rdd_12868_33 stored as bytes in memory (estimated size 16.0 B, free 1666.7 KB)",INFO
+17/06/09 11:29:15 INFO executor.Executor: Running task 25.0 in stage 2499.0 (TID 100427),INFO
+17/06/09 21:37:24 INFO executor.Executor: Finished task 11.0 in stage 3197.0 (TID 129178). 2135 bytes result sent to driver,INFO
